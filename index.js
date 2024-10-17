@@ -16,7 +16,7 @@ var transporter = nm.createTransport(
         secure: false,
         auth: {
             user: 'siddarthagadde11@gmail.com',
-            pass: 'epod xexx sisa xsbb'
+            pass: ''
         }
     }
 );
